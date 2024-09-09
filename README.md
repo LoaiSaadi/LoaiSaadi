@@ -1,3 +1,6 @@
+[![MasterHead](https://s1.gifyu.com/images/S1jYM.gif)]
+
+
 <h1 align="center">Hi 👋, I'm Loai Saadi</h1>
 <h3 align="center">A passionate Software & Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
@@ -25,7 +28,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loaisaadi&show_icons=true&locale=en&layout=compact" alt="loaisaadi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loaisaadi&show_icons=true&locale=en" alt="loaisaadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loaisaadi&" alt="loaisaadi" /></p>
