@@ -1,4 +1,3 @@
-[![MasterHead](https://s1.gifyu.com/images/S1jYM.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Loai Saadi</h1>
@@ -7,9 +6,9 @@
 
 - 🔭 I’m currently working on **DevQALink (Dell)**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Web-Development, React Native**
 
-- 🤝 I’m looking for help with **System Design**
+- 🤝 I’m looking to learn **System Design, Flutter**
 
 - 💬 Ask me about **React, Node.js, Python**
 
