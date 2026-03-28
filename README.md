@@ -1,16 +1,13 @@
-
-
 <h1 align="center">Hi 👋, I'm Loai Saadi</h1>
-<h3 align="center">A passionate Software & Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<h3 align="center">NOC Engineer | DevOps & Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on **DevQALink (Dell)**
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 🌱 I’m currently learning **Web-Development, React Native**
-
-- 🤝 I’m looking to learn **System Design, Flutter**
-
-- 💬 Ask me about **React, Node.js, Python**
+- 💼 Currently working as a **NOC Engineer**
+- 🚀 Experienced in **DevOps, Automation, and Monitoring systems**
+- 🌱 Currently learning **AWS & Cloud Technologies**
+- 🎯 Goal: Transition into **DevOps / Cloud / Software Engineering roles**
+- 💬 Ask me about **Python, Automation, DevOps, Monitoring**
 
 - 📫 How to reach me **saadiloai@gmail.com**
 
